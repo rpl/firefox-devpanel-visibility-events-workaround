@@ -1,0 +1,13 @@
+{
+  "name": "devpanel-visibility-demo",
+  "id": "@devpanel-visibility-demo",
+  "title": "dev/panel visibility events workaround demo",
+  "description": "a small demo addon",
+  "version": "0.0.1",
+  "author": "Luca Greco <lgreco@mozilla.com>",
+  "main": "./index.js",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "devpanel-visibility-listener": "github:rpl/firefox-devpanel-visibility-events-workaround"
+  }
+}
