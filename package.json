@@ -1,0 +1,17 @@
+{
+  "name": "devpanel-visibility-listener",
+  "version": "0.1.0",
+  "description": "Reusable JPM package which provides the show/hide events for the dev/panel module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "addon-sdk"
+  ],
+  "author": "Luca Greco <lgreco@mozilla.com>",
+  "license": "MPL-2.0",
+  "engines": {
+    "firefox": ">=45.0"
+  }
+}
